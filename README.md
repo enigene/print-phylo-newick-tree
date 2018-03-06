@@ -15,6 +15,7 @@ find . -name "*.fasta" -exec sh -c 'megacc -n -a ~/MEGACC-analysis-options-files
 
 ## Output image
 Option `-o` or `--output` allows you to specify a name of the output filename.
+
 ![phylogenetic tree](example/tree.png)
 
 ### Option width and height
