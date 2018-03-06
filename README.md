@@ -1,7 +1,7 @@
 # print phylogenetic newick tree
 Creates an image with a phylogenetic tree from the input Newick file.
 
-## Simple usage:
+## Simple usage
 ```
 printPhyloNewickTree.R -i input.nwk
 ```
